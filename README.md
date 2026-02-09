@@ -5,8 +5,8 @@ I'm a passionate software developer from Indonesia, focusing on **web developmen
 
 - 🌱 Currently learning **Advanced AI & NLP**
 - 💻 Working on personal projects in **JavaScript, Node.js, and Python**
-- 🎮 Gamer on the side (Valorant & FIFA fan)
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/) | [Email](mailto:your-email@example.com)
+- 🎮 Gamer on the side (Valorant & FIFA fan) 
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/) | [Email](mailto:email@example.com)
 
 ---
 
@@ -16,7 +16,7 @@ I'm a passionate software developer from Indonesia, focusing on **web developmen
 
 ### 🛠️ Most Used Languages
 
-  [![Top Langs](https://github-readme-stats-eight-puce-25.vercel.app/api/top-langs/?username=BintangAull&langs_count=10&custom_title=Favorite%20Languages&layout=donut-vertical&theme=radical&border_radius=16)](https://github.com/BintangAll/github-readme-stats)
+  [![Top Langs](https://github-readme-stats-eight-puce-25.vercel.app/api/top-langs/?username=BintangAull&langs_count=12&custom_title=Favorite%20Languages&layout=donut-vertical&theme=radical&border_radius=16)](https://github.com/BintangAll/github-readme-stats)
 
 ---
 
@@ -25,5 +25,4 @@ I'm a passionate software developer from Indonesia, focusing on **web developmen
 
 ---
 
-### 📊 My Contribution Graph
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=BintangAull&theme=react-dark&hide_border=true)
+
