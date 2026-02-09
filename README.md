@@ -12,11 +12,11 @@ I'm a passionate software developer from Indonesia, focusing on **web developmen
 
 ### ⚡ GitHub Stats
 
-![BintangAull's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BintangAull&show_icons=true&theme=radical)
+ ![Anurag's GitHub stats](https://github-readme-stats-eight-puce-25.vercel.app/api?username=BintangAull&theme=radical&show_icons=true&border_radius=16)
 
 ### 🛠️ Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BintangAull&layout=compact&theme=radical)
+  [![Top Langs](https://github-readme-stats-eight-puce-25.vercel.app/api/top-langs/?username=BintangAull&langs_count=7&custom_title=Favorite%20Languages&layout=donut-vertical&theme=radical&border_radius=16&hide=javascript,html,tex,php)](https://github.com/BintangAll/github-readme-stats)
 
 ---
 
