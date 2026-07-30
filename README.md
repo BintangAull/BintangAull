@@ -14,11 +14,11 @@ I'm a passionate software developer from Indonesia, focusing on **web developmen
 
   [![Top Langs](https://github-readme-stats-eight-puce-25.vercel.app/api/top-langs/?username=BintangAull&langs_count=12&custom_title=Favorite%20Languages&layout=donut-vertical&theme=radical&border_radius=16)](https://github.com/BintangAll/github-readme-stats)
 
----
+# <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom"> Github Stats
 
-### 🌟 GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BintangAull&theme=radical)
+<div width="100vw" align="center">
 
----
+  <p>&nbsp;<img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=BintangAull&show_icons=true&theme=tokyonight&locale=en"  /></p>
+</div>
 
 
